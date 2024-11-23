@@ -1,0 +1,45 @@
+*{
+    font-style: italic;
+    font-size: larger;
+}
+#main_body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+#heading_bar{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#rest_body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#input1{
+    width: 5vw;
+    height: 10vh;
+}
+#input2{
+    width: 20vw;
+    height: 10vh;
+}
+button{
+    font-size: large;
+    font-weight: 800;
+    width: 30vw;
+    height: 10vh;
+    background-color: orange;
+    margin-left: 1em;
+}
+body{
+    background-color: rgb(247, 213, 219);
+}
+.rgh{
+    margin-left: 5%;
+    background-color: rgb(213, 218, 218);
+}

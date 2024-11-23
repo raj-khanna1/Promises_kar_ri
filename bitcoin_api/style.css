@@ -1,0 +1,14 @@
+body{
+    background-color: orange;
+}
+#main_body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+#h11{
+    background-color: blueviolet;
+    padding: 0.5em;
+    border-radius: 2%;
+}
